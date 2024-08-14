@@ -3,7 +3,7 @@
  * Creation Date        : 20-11-2021
  * Last Modified        : 23-11-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Using mailbox for communication between generator and driver
  **********************************************************************************************************************************/
 module mailbox;

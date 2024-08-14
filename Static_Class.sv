@@ -3,7 +3,7 @@
  * Creation Date        : 02-11-2021
  * Last Modified        : 05-10-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Create a class packet with creating object p1. And p2 as handle to packet. Now assign p1 to p2 and make changes with respect to object p1 and observe the class properties of p2.
  ************************************************************************************************************/
 module static1;

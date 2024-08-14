@@ -3,7 +3,7 @@
  * Creation Date        : 10-10-2021
  * Last Modified        : 21-10-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : This file is the top module for problem:
  Use an interface and interface tasks to perform write and read operations on RAM module. 
  The interface has 8 bits of data/address bus along with RWn (Read/Write enable) signal. The Read and Write are synchronized with posedge of clock.

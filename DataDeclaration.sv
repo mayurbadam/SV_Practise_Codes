@@ -3,7 +3,7 @@
  * Creation Date        : 10-10-2021
  * Last Modified        : 21-10-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : 
  Assign {32{4'b1111}} to bit/byte/shortint/in/longint and integer data types and print them. 
  Repeat the same thing with unsigned declaration for all above data types. 

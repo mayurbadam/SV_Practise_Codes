@@ -3,7 +3,7 @@
  * Creation Date        : 25-03-2022
  * Last Modified        : 25-03-2022
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Q. Write five time consuming tasks with a condition that all tasks should end at different instances
  										Execute task 1,2,3 concurrently, Now the task 4 should start to execute if any one of the tasks above started completed its execution, And task 5 should execute only after the completion of task 1,2, and 3.
 ********************************************************************************************************************************/

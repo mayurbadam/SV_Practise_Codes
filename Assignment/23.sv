@@ -3,7 +3,7 @@
  * Creation Date        : 25-03-2022
  * Last Modified        : 25-03-2022
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : 23. Assume that there is a property in super class which is of rand type, Now constraint the randomisation of the particular property in the range of 100 to 150, from child.
 								  Now take the same property in both parent class and child class and repeat the same scenario as above.
 **********************************************************************************************************************************/

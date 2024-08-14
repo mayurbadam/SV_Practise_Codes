@@ -3,7 +3,7 @@
  * Creation Date        : 24-10-2021
  * Last Modified        : 27-10-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Using Dynamic arrays
 ************************************************************************************************************/
 

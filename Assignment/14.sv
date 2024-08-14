@@ -3,7 +3,7 @@
  * Creation Date        : 22-03-2022
  * Last Modified        : 22-03-2022
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Q. Write a super class having a method where user will ask the testcase writer to mandatorily indulge the behaviour of the method from the user itself.
  **********************************************************************************************************************************/
 `include "typedefs.sv"

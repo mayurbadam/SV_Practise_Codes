@@ -3,7 +3,7 @@
  * Creation Date        : 16-11-2021
  * Last Modified        : 21-11-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Semophores for synchronization
 **********************************************************************************************************************************/
 /*class packet;

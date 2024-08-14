@@ -3,7 +3,7 @@
  * Creation Date        : 24-03-2022
  * Last Modified        : 24-03-2022
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : A code to randomise a queue qay in such a way that the qay contains only even numbers and must bounded in a range of 50 to 100. 
  **********************************************************************************************************************************/
 `include "typedefs.sv"

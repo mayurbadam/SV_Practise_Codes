@@ -3,7 +3,7 @@
  * Creation Date        : 24-03-2022
  * Last Modified        : 24-03-2022
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Piece of code to randomize a 2-diamensional array to generate below pattern: 
                                      1  2  3  4  5
                                      2  3  4  5  6

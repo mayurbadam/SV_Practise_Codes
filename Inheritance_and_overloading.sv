@@ -3,7 +3,7 @@
  * Creation Date        : 06-11-2021
  * Last Modified        : 07-11-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Create two classes with different properties and same method. Extend one class to another. Now access parent class properties and methods through child class. Use super keyword and display methods of parent class.
 ************************************************************************************************************/
 module inheritance;

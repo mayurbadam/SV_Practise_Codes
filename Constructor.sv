@@ -3,7 +3,7 @@
  * Creation Date        : 02-11-2021
  * Last Modified        : 05-10-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Using constructor to create an object
 ************************************************************************************************************/
 class Animal;

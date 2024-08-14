@@ -3,7 +3,7 @@
  * Creation Date        : 21-03-2022
  * Last Modified        : 21-03-2022
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Q. Can we access local property of parent class inside child? If yes how can we restrict to access the parent class property from outside the class. 
 **********************************************************************************************************************************/
 //--We cannot acess parent class local property from child class. It will restrict access of the property even from child class.

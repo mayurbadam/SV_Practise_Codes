@@ -3,7 +3,7 @@
  * Creation Date        : 22-03-2022
  * Last Modified        : 22-03-2022
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : A generic class with some properties. (Note: Intention behind the generic class, can change the property/can be configured during instantiation). 
  **********************************************************************************************************************************/
 `include "typedefs.sv"

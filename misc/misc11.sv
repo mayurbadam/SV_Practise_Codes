@@ -3,7 +3,7 @@
  * Creation Date        : 28-02-2022
  * Last Modified        : 29-02-2022
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Assigning a value from three variables, the assigned value is the one with lowest value. But, the values sent for comparison are sent bit by bit only and the output should be assigned bit by bit. Not like, storing 8 bits in a temperory variable and comparing and then assigning.
 **********************************************************************************************************************************/
 module misc(a,b,c,y);

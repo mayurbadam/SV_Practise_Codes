@@ -3,7 +3,7 @@
  * Creation Date        : 21-03-2022
  * Last Modified        : 21-03-2022
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Q. Write a snippet constituting a parent class, a child class with set of different properties with a scenario of having one property as in common to both the classes.
 									  Following above scenario, now write a method inside child class, to access the parent property i.e. the property which is common to both the classes. 
 									  Can we give value to parent property via child handle????...If yes then how?

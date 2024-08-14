@@ -3,7 +3,7 @@
  * Creation Date        : 01-11-2021
  * Last Modified        : 10-11-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Create a class packet that has the properties of 32-bit type (addr, data) and object type (address_range). Now create objects of class packet p1 & p2 (allocate memory) and copy p1 to p2. Now make changes with respect to object p2 and observe class properties of p1(i.e. addr, data, address_range). Repeat the above steps with the use of custom copy method and observe the difference. 
 ************************************************************************************************************/
 

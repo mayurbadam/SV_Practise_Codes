@@ -3,7 +3,7 @@
  * Creation Date        : 18-10-2021
  * Last Modified        : 22-10-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Use multi-dimensional array to implement a memory, initialize and print its content. Pack the array, access least 3 bytes, complement them and again store at the same locations.
 ************************************************************************************************************/
 module MultiDimensional;

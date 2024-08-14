@@ -3,7 +3,7 @@
  * Creation Date        : 10-11-2021
  * Last Modified        : 10-11-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : 
  Use a parameterized class to pass the data type of data member (data), use task to set the value of data member, and use class function that returns the data member value. 
  Take three instances of the class so the data member in each object is of different type (string/integer/bit). 

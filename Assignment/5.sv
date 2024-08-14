@@ -3,7 +3,7 @@
  * Creation Date        : 21-03-2022
  * Last Modified        : 21-03-2022
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : a snippet with class having some properties and take values from user through method. 
 **********************************************************************************************************************************/
 `include "typedefs.sv"

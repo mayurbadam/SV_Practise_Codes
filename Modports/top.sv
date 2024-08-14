@@ -3,7 +3,7 @@
  * Creation Date        : 10-10-2021
  * Last Modified        : 21-10-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : This file is the dut for problem:
  Use modport inside interface to perform write and read operations for DUT and TESTBENCH interaction. The interface is having bus with clk, read, enable and 8-bit address and data signals. 
  Select modport during module definition or module instantiation and synchronize clock.

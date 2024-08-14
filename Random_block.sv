@@ -3,7 +3,7 @@
  * Creation Date        : 17-11-2021
  * Last Modified        : 18-11-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Write a program to generate random data packet with random size and set constraint using set membership (inside) & iterative (foreach) method to assign to data packet, variable ordering (solve_before) & distributions (dist) for weighted probabilities and print the data packet after randomization (post_randomize). Also check whether the size is normal/oversized/runt using implication for random length of packet.
 **********************************************************************************************/
 module blocks;

@@ -3,7 +3,7 @@
  * Creation Date        : 17-11-2021
  * Last Modified        : 22-11-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Randomizing class properties using inline constraint block
  **********************************************************************************************/
 module inline;

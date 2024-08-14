@@ -3,7 +3,7 @@
  * Creation Date        : 21-03-2022
  * Last Modified        : 21-03-2022
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Snippet constituting a super class with three properties and take a subroutine to perform the addition of two properties and assign it to the third one. 
 **********************************************************************************************************************************/
 `include "typedefs.sv"

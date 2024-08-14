@@ -3,7 +3,7 @@
  * Creation Date        : 09-11-2021
  * Last Modified        : 10-11-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Create two classes with different properties and method to print these. Extend one class to another. Now assign child class handle to parent class and observe parent class properties. Also repeat above steps by assigning parent class handle to child class and observe child class properties. Then use $cast operator for the same.
 ************************************************************************************************************/
 module Casting;

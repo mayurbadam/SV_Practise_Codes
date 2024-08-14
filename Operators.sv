@@ -3,7 +3,7 @@
  * Creation Date        : 25-10-2021
  * Last Modified        : 29-10-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Exercising different operators
 ************************************************************************************************************/
 

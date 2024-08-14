@@ -3,7 +3,7 @@
  * Creation Date        : 25-10-2021
  * Last Modified        : 30-10-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Implementing dynamic Half adder using always_comb, always_latch, always_ff. Use reset and clock signals for always_ff/always_latch. Calculate parity on the Sum bits.
  ************************************************************************************************************/
 module HalfAdder;

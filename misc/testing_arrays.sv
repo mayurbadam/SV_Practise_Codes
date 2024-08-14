@@ -3,7 +3,7 @@
  * Creation Date        : 01-03-2022
  * Last Modified        : 01-03-2022
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : testing of arrays functionality - if assigned from lsb to msb or ... 
 **********************************************************************************************************************************/
 

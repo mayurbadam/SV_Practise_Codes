@@ -3,7 +3,7 @@
  * Creation Date        : 24-03-2022
  * Last Modified        : 24-03-2022
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Q. Assume that implementer has written a class to randomize the variable with restriction that it always generates the value greater than 50, Now as a testcase writer got a task to override the constraint and generate the value less than 50, Write the code for the above scenario. 
  **********************************************************************************************************************************/
 `include "typedefs.sv"

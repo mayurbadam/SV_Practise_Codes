@@ -3,7 +3,7 @@
  * Creation Date        : 21-03-2022
  * Last Modified        : 21-03-2022
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : a code to access the local property of a class from outside the class. 
 **********************************************************************************************************************************/
 

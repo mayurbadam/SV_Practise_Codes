@@ -3,7 +3,7 @@
  * Creation Date        : 21-03-2022
  * Last Modified        : 21-03-2022
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Q. Write a code with two objects of same class and perform the object assignment of one class object handle to another handle.
 									  Update the property using both handles and observe the changes accordingly.
 									  Deallocate the assigned object

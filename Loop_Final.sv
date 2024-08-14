@@ -3,7 +3,7 @@
  * Creation Date        : 24-10-2021
  * Last Modified        : 27-10-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Write a code to multiply a loop variable by 2 starting from 1 to 25. 
  Use break and continue in the loops to control the loop flow and print statements for the result. 
  Use final block to print time and the last count value.

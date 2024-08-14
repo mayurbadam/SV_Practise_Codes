@@ -3,7 +3,7 @@
  * Creation Date        : 24-10-2021
  * Last Modified        : 27-10-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Use fork?join_none to call a method 4 times (that displays the time and passed value) with #1 delay between each method call. Print time and disable all the threads after #5 delay. 
  Use fork...join_any for above case and wait until all threads complete their execution.
 ************************************************************************************************************/

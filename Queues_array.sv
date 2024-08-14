@@ -3,7 +3,7 @@
  * Creation Date        : 21-10-2021
  * Last Modified        : 21-10-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : 
  - Declare an integer queue.
  - Initialize it with five elements (0 to 4).

@@ -3,7 +3,7 @@
  * Creation Date        : 23-03-2022
  * Last Modified        : 23-03-2022
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : A piece of code to constraint a variable in such a way that the value of the variable must not contain 10,20 and it should not fall in the range of 50 and 65. 
  **********************************************************************************************************************************/
 `include "typedefs.sv"

@@ -3,7 +3,7 @@
  * Creation Date        : 23-03-2022
  * Last Modified        : 23-03-2022
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : a class with two variables ‘x’ and ‘y’, constraint the randomisation of these variables as follows:
 										* If the value of x is ranging from 5 to 10 then the value of y should be less than 20.
 										* If the value of x is ranging in between 20 to 40 then the value of y should be greater than 30 and less than 70

@@ -3,7 +3,7 @@
  * Creation Date        : 10-10-2021
  * Last Modified        : 21-10-2021
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : 
  Perform addition on bit & integer type operands, logic & bit type operands. 
  Assign four state initial value (containing x, z, 1, 0) to all four types of operand. 

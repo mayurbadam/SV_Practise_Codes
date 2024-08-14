@@ -3,7 +3,7 @@
  * Creation Date        : 04-05-2022
  * Last Modified        : 06-05-2022
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Small snippet on assertion for verifying $rose, $fell, $countones, $stable, $past and other methods. 
  **********************************************************************************************************************************/
 module System_functions;

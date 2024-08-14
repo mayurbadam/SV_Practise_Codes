@@ -3,7 +3,7 @@
  * Creation Date        : 23-03-2022
  * Last Modified        : 23-03-2022
  * Author               : Badam Mayur Krishna
- * Author's Email       : mayurkrishna.b@alpha-numero.tech
+ * Author's Email       : mayurkrishnamk@gmail.com
  * Description          : Q. Perform the randomisation of a variable in such a way that it always generates odd members with a condition having difference between current value and previous value is equal to 4.
  **********************************************************************************************************************************/
 `include "typedefs.sv"
