@@ -1,0 +1,5 @@
+What is Interface class?
+	-
+
+What is actual Class?
+

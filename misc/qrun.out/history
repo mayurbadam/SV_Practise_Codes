@@ -1,0 +1,45 @@
+- Entry: 1
+  Time: Tue Jul 23 17:29:37 2024
+  Command: qverilog task_in_function.sv 
+- Entry: 2
+  Time: Tue Jul 23 17:30:03 2024
+  Command: qverilog task_in_function.sv 
+- Entry: 3
+  Time: Tue Jul 23 17:30:33 2024
+  Command: qverilog task_in_function.sv 
+- Entry: 4
+  Time: Tue Jul 23 17:30:59 2024
+  Command: qverilog task_in_function.sv 
+- Entry: 5
+  Time: Tue Jul 23 22:19:41 2024
+  Command: qverilog encrypted_parent_class.sv 
+- Entry: 6
+  Time: Tue Jul 23 22:22:36 2024
+  Command: qverilog encrypted_parent_class.sv 
+- Entry: 7
+  Time: Tue Jul 23 22:24:00 2024
+  Command: qverilog encrypted_parent_class.sv 
+- Entry: 8
+  Time: Tue Jul 23 22:24:15 2024
+  Command: qverilog encrypted_parent_class.sv 
+- Entry: 9
+  Time: Tue Jul 23 22:24:39 2024
+  Command: qverilog encrypted_parent_class.sv 
+- Entry: 10
+  Time: Tue Jul 23 22:29:58 2024
+  Command: qverilog encrypted_parent_class.sv 
+- Entry: 11
+  Time: Tue Jul 23 22:30:53 2024
+  Command: qverilog encrypted_parent_class.sv 
+- Entry: 12
+  Time: Tue Jul 23 22:33:25 2024
+  Command: qverilog encrypted_parent_class.sv 
+- Entry: 13
+  Time: Tue Jul 23 22:33:54 2024
+  Command: qverilog encrypted_parent_class.sv 
+- Entry: 14
+  Time: Tue Jul 23 22:34:07 2024
+  Command: qverilog encrypted_parent_class.sv 
+- Entry: 15
+  Time: Tue Jul 23 22:34:21 2024
+  Command: qverilog encrypted_parent_class.sv 
