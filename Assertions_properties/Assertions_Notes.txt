@@ -1,0 +1,8 @@
+System Verilog assertions help speed up the verification process. Identifying the right set of checkers in verification plan and, implementing them using effective SV assertions helps to quickly catch the design bugs and ultimately helps in high-quality design.
+
+Advantages:
+  * Multiple lines of checker code can be represented in a few lines effectively using SVA code.
+  * SVA can be ignored by synthesis.
+  * Assertion takes lesser time to debug as they pin point the exact time of failure. Assertions can be turned on/off during simulations.       * They can have severity levels; failures can be non-fatal or fatal errors.
+  * Multi-Clock assertions are useful in writing checkers around Clock Domain Crossing (CDC) logic
+  * Assertions can be also used for formal verification.
